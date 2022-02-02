@@ -3,3 +3,6 @@
 /.idea/
 /JavaDocs/
 /HungerGames.iml
+.classpath
+.project
+*.prefs
